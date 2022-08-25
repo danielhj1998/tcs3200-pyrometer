@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"arduinorec","l":"ArduinoRec"},{"p":"commserial","l":"InputBufferAction"},{"p":"arduinorec","l":"SelectorRutaXLS"},{"p":"commserial","l":"SerialReceiver"},{"p":"commserial","l":"SerialSender"}]
