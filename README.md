@@ -9,7 +9,7 @@ To know the actual radiation wavelength of a body at high temperatures with the 
     <img src="https://user-images.githubusercontent.com/38321649/186570784-9054e781-6166-4432-bfc1-969b1c01d672.jpg" width="300" /> <img src="https://user-images.githubusercontent.com/38321649/186570799-5c7fa43b-d00b-4330-8858-c48ac628f4f1.png" width="300" />
 </p>
 
-To know more about the project, you can read the [report](https://github.com/danielhj1998/tcs3200-pyrometer/raw/main/report.pdf).
+To see the results of using it with a an electric grill, you can read the [report](https://github.com/danielhj1998/tcs3200-pyrometer/raw/main/report.pdf).
 
 # Usage
 1. Characterize the material:
